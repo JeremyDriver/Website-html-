@@ -18,7 +18,12 @@ No build step, framework, or database — plain HTML/CSS/JS that can be hosted a
 | `contact.html` | Contact — lead form, emails, phone, hours |
 | `404.html` | Not-found page |
 
-Also included: `robots.txt`, `sitemap.xml`, `favicon.svg`, `CNAME`, and Organization
+Logo files (cropped from the company logo):
+`assets/img/logo.png` (full logo), `assets/img/logo-mark.png` (icon used in the header/footer),
+`assets/img/og-image.png` (preview image for social shares), `favicon.png`, and `apple-touch-icon.png`.
+Brand colors: green `#127a3e`, yellow `#fbc518`.
+
+Also included: `robots.txt`, `sitemap.xml`, `CNAME`, and Organization
 structured data (JSON-LD) on the home page so Google can connect the site to the company.
 
 ## Before going live — replace placeholders
