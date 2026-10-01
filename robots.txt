@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.energychoiceprogram.com/sitemap.xml
+Sitemap: https://www.energychoiceprogram.org/sitemap.xml
